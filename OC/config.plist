@@ -1236,8 +1236,6 @@
 		<true/>
 		<key>Generic</key>
 		<dict>
-			<key>MLB</key>
-			<string>C02742108QXJG36UE</string>
 			<key>ROM</key>
 			<data>VSJEiHdm</data>
 			<key>SpoofVendor</key>
@@ -1246,10 +1244,6 @@
 			<false/>
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
-			<key>SystemSerialNumber</key>
-			<string>C02VKFZTHX87</string>
-			<key>SystemUUID</key>
-			<string>6932563B-1319-48A8-AE5D-E5BC44C5C422</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
