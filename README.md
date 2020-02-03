@@ -11,7 +11,7 @@
 |      GPU       |         MSI GTX 1050Ti         |
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 
-**macOS 版本**: 10.13.6 (17C8037)
+**macOS 版本**: 10.13.6 (17C11023)
 **OpenCore 版本**: 0.5.4
 
 ## 说明
