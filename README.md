@@ -33,8 +33,10 @@
 
 8.添加1050Ti原生电源管理
 
-9.删除DSDT中所有的USB端口映射
+9.删除DSDT.aml 会造成windows 10无法启动
 
 10.更新kext为最新
+
+11.添加AMD-USB-Map.kext 定制PTXH控制器内的端口，请自行修改其他[参考链接](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md)
 
 ...
