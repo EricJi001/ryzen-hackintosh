@@ -8,12 +8,12 @@
 |  Motherboard   |       ASUS PRIME B350M-A       |
 |      RAM       |   8GB (2 x 4GB) A-DATA @2666   |
 | Audio Chipset  |            ALC-887             |
-|      GPU       |         MSI GTX 1050Ti         |
+|      GPU       | MSI GTX 1050Ti/Sapphire RX 460 |
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 
-**macOS 版本**: 10.13.6 (17G11023)
+**macOS 版本**: 10.13.6 (17G11023)/10.14.6(18G3020)
 
-**OpenCore 版本**: 0.5.5
+**OpenCore 版本**: 0.5.5/0.5.6
 
 ## 说明
 
@@ -39,4 +39,7 @@
 
 11.添加AMD-USB-Map.kext 定制PTXH控制器内的端口，请自行修改其他[参考链接](https://github.com/khronokernel/Opencore-Vanilla-Desktop-Guide/blob/master/AMD/AMD-USB-map.md)
 
+12.添加AMD CPU的温度检测插件SMCAMDProcessor.kext，基于VirtualSMC.kext，可[参考链接](https://github.com/trulyspinach/SMCAMDProcessor)
+
 ...
+
