@@ -11,13 +11,13 @@ AMD Ryzen Hackintosh
 |      GPU       | MSI GTX 1050Ti/Sapphire RX 460 |
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 
-**macOS version**: 10.13.6 (17G11023)/10.14.6(18G4032)
+**macOS version**: 10.13.6 (17G11023)/10.14.6(18G4032)/10.15.6 (19G73)
 
-**OpenCore version**: 0.5.5/0.5.7
+**OpenCore version**: 0.5.5/0.5.7/0.5.9
 
 ## Tips：
 
-1.LayoutID = 52
+1.LayoutID = 50
 
 2.No test microphone
 
