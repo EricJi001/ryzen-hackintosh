@@ -11,9 +11,9 @@ AMD Ryzen Hackintosh
 |      GPU       | MSI GTX 1050Ti/Sapphire RX 460 |
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 
-**macOS version**: 10.13.6 (17G11023)/10.14.6(18G4032)/10.15.6 (19G73)
+**macOS version**: 10.15.6 (19G73)
 
-**OpenCore version**: 0.5.5/0.5.7/0.5.9
+**OpenCore version**: 0.5.9
 
 ## Tips：
 
@@ -31,11 +31,9 @@ AMD Ryzen Hackintosh
 
 7.Default OS is macOS, if you used win10 + macOS
 
-8.Add 1050Ti PM
+8.Update kext  
 
-9.Update kext  
-
-10.Add AMD CPU temperature plug-in: SMCAMDProcessor.kext，this kext based on VirtualSMC.kext，see [this link](https://github.com/trulyspinach/SMCAMDProcessor)
+9.Add AMD CPU temperature plug-in: SMCAMDProcessor.kext，this kext based on VirtualSMC.kext，see [this link](https://github.com/trulyspinach/SMCAMDProcessor)
 
 ...
 
