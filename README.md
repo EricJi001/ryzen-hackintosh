@@ -1,7 +1,5 @@
 AMD Ryzen Hackintosh 
 
-### 配置
-
 |   Component    |             Model              |
 | :------------: | :----------------------------: |
 |      CPU       | AMD Ryzen 5 1400 @ 3.7GHz (OC) |
@@ -12,9 +10,9 @@ AMD Ryzen Hackintosh
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 |      WiFi      |          Intel ax200           |
 
-**macOS version**: 10.15.7 (19H2)
+**macOS version**: 10.15.7 (19H15)
 
-**OpenCore version**: 0.6.2
+**OpenCore version**: 0.6.3
 
 ## Tips：
 
