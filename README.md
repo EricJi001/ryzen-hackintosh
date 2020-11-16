@@ -10,7 +10,7 @@ AMD Ryzen Hackintosh
 | OS Disk (NVMe) |     Samsung 970 Pro 512GB      |
 |      WiFi      |          Intel ax200           |
 
-**macOS version**: 10.15.7 (19H15)
+**macOS version**: 10.15.7 (19H15)/11.0.1 (20B29)
 
 **OpenCore version**: 0.6.3
 
